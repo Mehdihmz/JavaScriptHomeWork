@@ -37,13 +37,6 @@
 
 
     ```js
-    <!--  <style>
-        div.box {width:200px; height: 200px; float:left; margin: 0 50px 50px 0}
-<!--  </style> -->
-<!--  <body> -->
-<!--     <button>Push me...</button> <br><br> -->
-<!--     <div id="container"></div> -->
-<!--  </body> --> -->
     
     <script>
 
