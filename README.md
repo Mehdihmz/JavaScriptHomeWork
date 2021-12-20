@@ -10,8 +10,6 @@
 
 
     ```js
-  <body>
-    <p id="p1"></p>
     
     <script>
 
@@ -31,5 +29,4 @@
 
     </script>
     
-</body>
     ```
