@@ -37,8 +37,7 @@
 
 
     ```js
-
-<!--  <style>
+    <!--  <style>
         div.box {width:200px; height: 200px; float:left; margin: 0 50px 50px 0}
  </style>
  <body>
@@ -46,7 +45,7 @@
     <div id="container"></div>
  </body> -->
     
- <script>
+    <script>
 
         function onClick() {
             const div = document.createElement("div");
