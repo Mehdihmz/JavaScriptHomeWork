@@ -36,14 +36,15 @@
        > 6_2. Напишите скрипт, который с помощью функции создает столько блоков 250 х 250 пикселей, сколько введено в prompt и раскрашивает каждый блок рандомным цветом, размещает в центр блоков картинки 100 х 100 пикс.
 
 
- 
- <style>
+    ```js
+
+<!--  <style>
         div.box {width:200px; height: 200px; float:left; margin: 0 50px 50px 0}
  </style>
  <body>
     <button>Push me...</button> <br><br>
     <div id="container"></div>
- </body>
+ </body> -->
     
  <script>
 
